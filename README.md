@@ -37,9 +37,9 @@ O objetivo foi traduzir um wireframe em texto para uma interface moderna, respon
 
 ## Tecnologias
 
-- [Flutter](https://flutter.dev/) (Web)
-- [Dart](https://dart.dev/)
-- [url_launcher](https://pub.dev/packages/url_launcher) para abrir links externos e e-mail
+- Flutter(Web)
+- Dart
+- url_launcher - para abrir links externos e e-mail
 - GitHub Pages para hospedagem
 
 ## Responsividade
